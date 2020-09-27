@@ -1,7 +1,8 @@
 package com.tolstykh.textviewrichdrawable.example;
 
-import android.support.annotation.StringRes;
-import androidx.core.app.Fragment;
+
+
+import androidx.fragment.app.Fragment;
 
 import com.tolstykh.textviewrichdrawable.R;
 

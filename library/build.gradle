@@ -1,9 +1,9 @@
 apply plugin: 'com.android.library'
 
 ext {
-    PUBLISH_GROUP_ID = 'com.androidx.jishnutravelyaari.textviewrichdrawable'
+    PUBLISH_GROUP_ID = 'com.github.jishnutravelyaari.textviewrichdrawable'
     PUBLISH_ARTIFACT_ID = 'textview-rich-drawable'
-    PUBLISH_VERSION = '1.0.1'
+    PUBLISH_VERSION = '1.0.2'
 }
 
 android {
