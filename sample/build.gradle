@@ -26,7 +26,6 @@ android {
 }
 
 dependencies {
-    compile "com.android.support:appcompat-v7:$rootProject.supportVersion"
-    compile "com.android.support:design:$rootProject.supportVersion"
-    compile 'com.androidx.jishnutravelyaari.textviewrichdrawable:textview-rich-drawable:1.0.0'
+    implementation "androidx.appcompat:appcompat:$rootProject.appcompatVersion"
+    implementation 'com.github.jishnutravelyaari:textview-rich-drawable:1.0.0'
 }
