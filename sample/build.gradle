@@ -27,5 +27,5 @@ android {
 
 dependencies {
     implementation "androidx.appcompat:appcompat:$rootProject.appcompatVersion"
-    implementation 'com.github.jishnutravelyaari:textview-rich-drawable:1.0.0'
+    api project(":library")
 }
