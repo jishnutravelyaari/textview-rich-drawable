@@ -7,6 +7,5 @@
         <attr name="drawableTopVector" format="reference" />
         <attr name="drawableEndVector" format="reference" />
         <attr name="drawableBottomVector" format="reference" />
-        <attr name="drawableTint" format="reference" />
     </declare-styleable>
 </resources>
